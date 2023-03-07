@@ -2,6 +2,6 @@
 
 This awesome project is created to experiment git notions like clone, push and pull
 
-# Achievements
+# achievements
 
-J'ai réussi à faire clone, pull et je m'apprête à faire push.
+J'ai rï¿½ussi ï¿½ faire clone, pull et je m'apprï¿½te ï¿½ faire push.
