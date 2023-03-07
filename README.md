@@ -2,6 +2,8 @@
 
 This awesome project is created to experiment git notions like clone, push and pull
 
-# achievements
+<section> achievements
 
-J'ai r�ussi � faire clone, pull et je m'appr�te � faire push.
+<p> J'ai r�ussi � faire clone, pull et je m'appr�te � faire push..</p>
+
+</section>
